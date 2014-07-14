@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moe bailate algo!</string>
+    <string name="acercaDe_name">Mira cómo baila Moe!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Moe Moe Moe</string>
+    <string name="titulo2">Has pulsado el botón secreto</string>
+    <string name="boton1">Baila</string>
+    <string name="boton2">Configurar</string>
+    <string name="boton3">Acerca de</string>
+    <string name="boton4">Salir</string>
+    <string name="acercaDe">Desarrollado por Robert Jiménez, Raúl Barragán y Matt Groening</string>
+
+</resources>

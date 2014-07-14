@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App Dancing Moe!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Give me your tens</string>
+    <string name="titulo2">Youre picked the secret button</string>
+    <string name="boton1">Dance!</string>
+    <string name="boton2">Configure</string>
+    <string name="boton3">About</string>
+    <string name="boton4">Exit</string>
+    <string name="acercaDe">Developed for me. Youre a freak with English language</string>
+</resources>
